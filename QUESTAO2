@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head> 
+   <meta charset="UTF-8">
+   <title>Exercício pratico2</title>
+</head>
+<body>
+   <h2>Formulário de Usuário</h2>
+   <form action="cadastro.html"
+       <div>
+           <label for="nome">Nome Completo:</label><br>
+           <input type="text"id="nome" name="nome" required><br>
+       </div>
+       <br>
+       <div>
+           <label for="email">Email:</label><br>
+           <input type="email"id="email" name="email" required><br>
+       </div>
+       <br>
+       <div>
+           <label for="senha">Senha:</label><br>
+           <input type="password"id="senha" name="senha" required><br>
+       </div>
+       <br>
+       <div>
+           <input type="submit"value="cadastrar">
+       </div>
+   </form>     
+</body>
+</html>
