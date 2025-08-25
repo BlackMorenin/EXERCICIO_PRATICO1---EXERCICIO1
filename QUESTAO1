@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head> 
+   <meta charset="UTF-8">
+   <title>Exercício pratico1</title>
+</head>
+<body>
+<h2>Tabela de Aulas</h2>
+    <table border="1">
+       <tr>
+          <th>Disciplina</th>
+          <th>Professor</th>
+          <th>Horário</th>
+       </tr>
+       <tr>
+          <td>Português</th>
+          <td>Prof.Antônio</th>
+          <td>8:00 - 9:00</th>
+       </tr>
+       <tr>
+          <td>Inglês</th>
+          <td>Prof.Carolina</th>
+          <td>10:00 - 11:00</th>
+       </tr>
+       <tr>
+          <td>Geografia</th>
+          <td>Prof.Sebastião</th>
+          <td>6:50 - 7:50</th>
+       </tr>
+       <tr>
+          <td>Matemática</th>
+          <td>Prof.Cristiane</th>
+          <td>11:10 - 12:10</th>
+       </tr>
+    </table>     
+</body> 
+</html>
